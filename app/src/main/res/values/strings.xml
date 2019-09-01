@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="travel_name">Nama Tempat Wisata</string>
+    <string name="travel_description">Deskripsi Tempat Wisata</string>
+    <string name="travel_detailname">Detail Nama Tempat Wisata</string>
+    <string name="travel_detaildescription">Detail Deskripsi Tempat Wisata</string>
+    <string name="about">About</string>
+    <string name="myname">Haura AzZahra</string>
+    <string name="myemail">haura_salsabila17@yahoo.com</string>
+</resources>
